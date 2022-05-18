@@ -9,6 +9,7 @@ function App() {
         <p>
           Change stuff
         </p>
+        <button>Stuff</button>
         <a
           className="App-link"
           href="https://reactjs.org"
