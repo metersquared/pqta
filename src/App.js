@@ -35,15 +35,14 @@ function App() {
     "Semangat ya 🍀",
     "Sori ya, aku nggak bisa bantuin kali ini. 😅",
     "Tapi aku yakin kamu pasti bisa. 😉",
-    "I have not met a women as smart, resilient and determined as you.",
     "Lebay ya, gini doang pake bikin website.",
     "Ya tapi gimana lagi,... ",
     "Aku nggak sejago kamu bikin postcard. 🤷‍♂️",
     "Gitu aja sih,... ",
-    "Doaku bersamamu Ta, ditunggu kabarnya setelah ujian.",
-    "Nanti kalo mau curhat dan ngomel2in juga boleh...",
+    "Semangat ya ngerjain ujiannya.",
+    "My prayers are with you",
     "Salam dari 🐻lin,",
-    "Arya ❤️"
+    "Arya ♥"
   ]
 
   return (
