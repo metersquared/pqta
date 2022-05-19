@@ -39,8 +39,8 @@ function App() {
     "Ya tapi gimana lagi,... ",
     "Aku nggak sejago kamu bikin postcard. 🤷‍♂️",
     "Gitu aja sih,... ",
-    "Semangat ya ngerjain ujiannya.",
-    "My prayers are with you",
+    "Semangat ya ngerjain ujiannya,",
+    "My prayers are with you.",
     "Salam dari 🐻lin,",
     "Arya ♥"
   ]
