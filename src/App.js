@@ -51,7 +51,7 @@ function App() {
     {buttonClicked&&<body>
     <div  className='App fill-height'>
     {textIndex<sentences.length&&<Fader setTextIndex={setTextIndex} textIndex={textIndex} visible={visibility} text={sentences[textIndex]}/>}
-    {textIndex>=sentences.length&&<div className='fade-in' style={{alignItems:"center",}}><img  height={166} width={709} src={gl}/></div>}
+    {textIndex>=sentences.length&&<div className='fade-in'  style={{alignItems:"center",}}><img alt="Stuff" height={166} width={709} src={gl}/></div>}
     </div>
     </body>}
     
