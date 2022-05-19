@@ -28,19 +28,20 @@ function App() {
 
   const sentences =[
     "Oops...",
-    "Hallo Ita,... ",
+    "Sori nih kena jebakan Batman 🦇",
+    "Hallo Ita, apa kabar?",
     "I hope everything's going well...",
-    "Berhubung kamu bakal ujian (terakhir..?),",
-    "aku mau bilang...",
-    "Semangat ya 🍀",
+    "Berhubung kamu bakal ujian terakhir di Bachelor,",
+    "aku mau bilang semangat ya! 🍀",
     "Sori ya, aku nggak bisa bantuin kali ini. 😅",
     "Tapi aku yakin kamu pasti bisa. 😉",
     "Lebay ya, gini doang pake bikin website.",
     "Ya tapi gimana lagi,... ",
     "Aku nggak sejago kamu bikin postcard. 🤷‍♂️",
     "Gitu aja sih,... ",
+    "Sori ya ganggu hehehe...",
     "Semangat ya ngerjain ujiannya,",
-    "My prayers are with you.",
+    "Aku doain terus kamu dapat hasil yang terbaik 💯",
     "Salam dari 🐻lin,",
     "Arya ♥"
   ]

@@ -39,17 +39,20 @@ const Fader = ({text,visible, textIndex, setTextIndex}) =>{
     },[text])
 
     return(
-        <div className={"row "+fadeProp.fade}>
-            {currentTextIndex!==0&&
+        <div className={"column"}>
+            {/* {currentTextIndex!==0&&
         <Button onClick={()=>{setFadeProp({
                     fade:'fade-out'
-                });setTextIndex(textIndex-1);}}> {"<<<"} </Button>}
-        <h1 className={fadeProp.fade}>
+                });setTextIndex(textIndex-1);}}> {"<<<"} </Button>} */}
+        <h1 onClick={()=>{setFadeProp({
+                    fade:'fade-out'
+                });setTextIndex(textIndex+1);}} className={fadeProp.fade}>
         {currentText}
         </h1>
-        <Button onClick={()=>{setFadeProp({
+        <p style={{fontWeight:"initial"}}>(Nyalain audionya ya. Terus klik kalimatnya untuk baca lebih lanjut.)</p>
+        {/* <Button onClick={()=>{setFadeProp({
                     fade:'fade-out'
-                });setTextIndex(textIndex+1);}}>{">>>"}</Button>
+                });setTextIndex(textIndex+1);}}>{">>>"}</Button> */}
         </div>
     )
 }
