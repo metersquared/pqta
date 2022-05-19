@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/pqta/static/css/main.56a9bdba.css",
-    "main.js": "/pqta/static/js/main.3d7b13fe.js",
+    "main.js": "/pqta/static/js/main.273bfa12.js",
     "static/js/787.cdb62704.chunk.js": "/pqta/static/js/787.cdb62704.chunk.js",
     "static/media/autumnmelody.mp3": "/pqta/static/media/autumnmelody.c94c07a4abd59e45b4c9.mp3",
     "static/media/good luck.jpg": "/pqta/static/media/good luck.05229e2e1d2fe231d747.jpg",
     "index.html": "/pqta/index.html",
     "main.56a9bdba.css.map": "/pqta/static/css/main.56a9bdba.css.map",
-    "main.3d7b13fe.js.map": "/pqta/static/js/main.3d7b13fe.js.map",
+    "main.273bfa12.js.map": "/pqta/static/js/main.273bfa12.js.map",
     "787.cdb62704.chunk.js.map": "/pqta/static/js/787.cdb62704.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.56a9bdba.css",
-    "static/js/main.3d7b13fe.js"
+    "static/js/main.273bfa12.js"
   ]
 }
