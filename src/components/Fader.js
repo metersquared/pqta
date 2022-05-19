@@ -2,17 +2,6 @@ import React, {useState, useEffect} from "react";
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
 
-const Button = styled.button`
-  background-color: white;
-  color: black;
-  font-size: 20px;
-  padding: 10px 10px;
-  border-radius: 5px;
-  border-width: 0px;
-  margin: 10px 10px;
-  cursor: pointer;
-  flex:0;
-`;
 
 const Fader = ({text,visible, textIndex, setTextIndex}) =>{
 
@@ -21,12 +10,10 @@ const Fader = ({text,visible, textIndex, setTextIndex}) =>{
     });
 
     const [currentText, setCurrentText] = useState(text);
-    const [currentTextIndex, setCurrentTextIndex] = useState(textIndex);
 
     useEffect(()=>{
                 
                 setTimeout(()=>{
-                    setCurrentTextIndex(textIndex);
                     setCurrentText(text);
                     setFadeProp({
                         fade: 'fade-in'
